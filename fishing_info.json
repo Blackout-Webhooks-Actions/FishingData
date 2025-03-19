@@ -1,0 +1,359 @@
+﻿{
+  "Mondstadt": {
+    "Cider Lake (1)": {
+      "Day": [
+        "Medaka",
+        "Aizen Medaka",
+        "Akai Maou",
+        "Tea-Colored Shirakodai",
+        "Pufferfish",
+        "Bitter Pufferfish"
+      ],
+      "Night": [
+        "Medaka",
+        "Aizen Medaka",
+        "Venomspine Fish",
+        "Pufferfish",
+        "Bitter Pufferfish"
+      ],
+      "Display Limit": "5",
+      "Total Fish": "10-11"
+    },
+    "Cider Lake (2)": {
+      "Day": [
+        "Aizen Medaka",
+        "Crystalfish",
+        "Rusty Koi",
+        "Tea-Colored Shirakodai"
+      ],
+      "Night": [
+        "Aizen Medaka",
+        "Venomspine Fish",
+        "Rusty Koi"
+      ],
+      "Display Limit": "4",
+      "Total Fish": "10"
+    },
+    "Dawn Winery": {
+      "Day": [
+        "Aizen Medaka",
+        "Akai Maou",
+        "Tea-Colored Shirakodai",
+        "Pufferfish",
+        "Bitter Pufferfish"
+      ],
+      "Night": [
+        "Aizen Medaka",
+        "Venomspine Fish",
+        "Dawncatcher",
+        "Pufferfish",
+        "Bitter Pufferfish"
+      ],
+      "Display Limit": "5",
+      "Total Fish": "11"
+    },
+    "Dragonspine": {
+      "Day": [
+        "Medaka",
+        "Tea-Colored Shirakodai"
+      ],
+      "Night": [
+        "Medaka",
+        "Venomspine Fish",
+        "Snowstrider"
+      ],
+      "Display Limit": "4",
+      "Total Fish": "8"
+    },
+    "Stormbearer Mountains": {
+      "Day": [
+        "Medaka",
+        "Aizen Medaka",
+        "Crystalfish",
+        "Golden Koi",
+        "Tea-Colored Shirakodai"
+      ],
+      "Night": [
+        "Medaka",
+        "Aizen Medaka",
+        "Dawncatcher",
+        "Venomspine Fish",
+        "Golden Koi"
+      ],
+      "Display Limit": "4",
+      "Total Fish": "6"
+    },
+    "Stormterror's Lair (1)": {
+      "Day": [
+        "Medaka",
+        "Aizen Medaka",
+        "Tea-Colored Shirakodai"
+      ],
+      "Night": [
+        "Medaka",
+        "Aizen Medaka",
+        "Dawncatcher"
+      ],
+      "Display Limit": "4",
+      "Total Fish": "4-6"
+    },
+    "Stormterror's Lair (2)": {
+      "Day": [
+        "Medaka",
+        "Aizen Medaka",
+        "Crystalfish"
+      ],
+      "Night": [
+        "Medaka",
+        "Aizen Medaka",
+        "Dawncatcher"
+      ],
+      "Display Limit": "4",
+      "Total Fish": "6"
+    },
+    "Windrise": {
+      "Day": [
+        "Medaka",
+        "Aizen Medaka",
+        "Tea-Colored Shirakodai"
+      ],
+      "Night": [
+        "Medaka",
+        "Aizen Medaka",
+        "Venomspine Fish"
+      ],
+      "Display Limit": "4",
+      "Total Fish": "6"
+    }
+  },
+  "Liyue": {
+    "Bishui Plain (1)": {
+      "Day": [
+        "Medaka",
+        "Brown Shirakodai"
+      ],
+      "Night": [
+        "Medaka",
+        "Betta"
+      ],
+      "Display Limit": "4",
+      "Total Fish": "6"
+    },
+    "Bishui Plain (2)": {
+      "Day": [
+        "Medaka",
+        "Crystalfish",
+        "Brown Shirakodai"
+      ],
+      "Night": [
+        "Medaka",
+        "Dawncatcher"
+      ],
+      "Display Limit": "4",
+      "Total Fish": "8"
+    },
+    "Dihua Marsh": {
+      "Day": [
+        "Medaka",
+        "Sweet-Flower Medaka",
+        "Brown Shirakodai"
+      ],
+      "Night": [
+        "Medaka",
+        "Sweet-Flower Medaka",
+        "Dawncatcher"
+      ],
+      "Display Limit": "4",
+      "Total Fish": "8"
+    },
+    "Guili Plains": {
+      "Day": [
+        "Sweet-Flower Medaka",
+        "Akai Maou",
+        "Golden Koi",
+        "Rusty Koi",
+        "Brown Shirakodai"
+      ],
+      "Night": [
+        "Sweet-Flower Medaka",
+        "Betta",
+        "Golden Koi",
+        "Rusty Koi"
+      ],
+      "Display Limit": "5",
+      "Total Fish": "9-12"
+    },
+    "Liyue Harbor": {
+      "Day": [
+        "Sweet-Flower Medaka",
+        "Crystalfish",
+        "Pufferfish"
+      ],
+      "Night": [
+        "Sweet-Flower Medaka",
+        "Dawncatcher",
+        "Betta",
+        "Pufferfish"
+      ],
+      "Display Limit": "4",
+      "Total Fish": "7"
+    },
+    "Luhua Pool": {
+      "Day": [
+        "Sweet-Flower Medaka",
+        "Akai Maou",
+        "Golden Koi",
+        "Rusty Koi",
+        "Brown Shirakodai"
+      ],
+      "Night": [
+        "Sweet-Flower Medaka",
+        "Betta",
+        "Golden Koi",
+        "Rusty Koi"
+      ],
+      "Display Limit": "5",
+      "Total Fish": "8-11"
+    },
+    "Mt. Aocang": {
+      "Day": [
+        "Medaka",
+        "Sweet-Flower Medaka",
+        "Crystalfish",
+        "Abiding Angelfish"
+      ],
+      "Night": [
+        "Medaka",
+        "Sweet-Flower Medaka",
+        "Dawncatcher"
+      ],
+      "Display Limit": "4",
+      "Total Fish": "5-7"
+    },
+    "Mt. Hulao": {
+      "Day": [
+        "Medaka",
+        "Sweet-Flower Medaka",
+        "Crystalfish",
+        "Brown Shirakodai"
+      ],
+      "Night": [
+        "Medaka",
+        "Sweet-Flower Medaka",
+        "Dawncatcher",
+        "Betta"
+      ],
+      "Display Limit": "4",
+      "Total Fish": "8-9"
+    },
+    "Mt. Xuanlian Southwestern Waters": {
+      "Day": [
+        "Sweet-Flower Medaka",
+        "Akai Maou",
+        "Golden Koi",
+        "Jade Heartfeather Bass"
+      ],
+      "Night": [
+        "Sweet-Flower Medaka",
+        "Dawncatcher",
+        "Golden Koi",
+        "Jade Heartfeather Bass"
+      ],
+      "Display Limit": "5",
+      "Total Fish": "11"
+    },
+    "Nameless Ruins": {
+      "Day": [
+        "Sweet-Flower Medaka",
+        "Crystalfish",
+        "Akai Maou",
+        "Pufferfish"
+      ],
+      "Night": [
+        "Sweet-Flower Medaka",
+        "Dawncatcher",
+        "Pufferfish"
+      ],
+      "Display Limit": "4",
+      "Total Fish": "5-7"
+    },
+    "Qingce Village": {
+      "Day": [
+        "Sweet-Flower Medaka",
+        "Crystalfish",
+        "Brown Shirkodai",
+        "Bitter Pufferfish"
+      ],
+      "Night": [
+        "Sweet-Flower Medaka",
+        "Dawncatcher",
+        "Betta",
+        "Bitter Pufferfish"
+      ],
+      "Display Limit": "4",
+      "Total Fish": "8"
+    },
+    "Tianqiu Valley": {
+      "Day": [
+        "Medaka",
+        "Crystalfish"
+      ],
+      "Night": [
+        "Medaka",
+        "Betta"
+      ],
+      "Display Limit": "4",
+      "Total Fish": "6-7"
+    },
+    "Teatree Slope Northern Waters": {
+      "Day": [
+        "Medaka",
+        "Golden Koi",
+        "Rusty Koi",
+        "Brown Shirkodai",
+        "Jade Heartfeather Bass"
+      ],
+      "Night": [
+        "Medaka",
+        "Betta",
+        "Golden Koi",
+        "Rusty Koi",
+        "Jade Heartfeather Bass"
+      ],
+      "Display Limit": "5",
+      "Total Fish": "9"
+    },
+    "Underground Waterway": {
+      "Day": [
+        "Medaka",
+        "Akai Maou",
+        "Brown Shirkodai",
+        "Bitter Pufferfish"
+      ],
+      "Night": [
+        "Medaka",
+        "Betta",
+        "Bitter Pufferfish"
+      ],
+      "Display Limit": "4",
+      "Total Fish": "5-7"
+    },
+    "Upper Chenyu Vale Eastern Waters": {
+      "Day": [
+        "Medaka",
+        "Crystalfish",
+        "Rusty Koi",
+        "Jade Heartfeather Bass"
+      ],
+      "Night": [
+        "Medaka",
+        "Dawncatcher",
+        "Betta",
+        "Rusty Koi",
+        "Jade Heartfeather Bass"
+      ],
+      "Display Limit": "4",
+      "Total Fish": "8"
+    }
+  }
+}
