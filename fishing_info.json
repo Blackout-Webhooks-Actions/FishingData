@@ -429,6 +429,18 @@
       "Total Fish": "6-9"
     },
     "Nazuchi Beach": {
+      "Day": [
+        "Medaka",
+        "Purple Shriakodai",
+        "Bitter Pufferfish"
+      ],
+      "Night": [
+        "Medaka",
+        "Lunged Stickleback",
+        "Bitter Pufferfish"
+      ],
+      "Display Limit": "4",
+      "Total Fish": "5-9"
     },
     "Ritou": {
       "Day": [
