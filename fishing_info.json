@@ -355,5 +355,407 @@
       "Display Limit": "4",
       "Total Fish": "8"
     }
+  },
+  "Inazuma": {
+    "Amakane Island": {
+      "Day": [
+        "Glaze Medaka",
+        "Purple Shriakodai"
+      ],
+      "Night": [
+        "Glaze Medaka",
+        "Lunged Stickleback"
+      ],
+      "Display Limit": "5",
+      "Total Fish": "11-12"
+    },
+    "Autake Plains": {
+      "Day": [
+        "Medaka",
+        "Akai Maou",
+        "Purple Shriakodai"
+      ],
+      "Night": [
+        "Medaka",
+        "Lunged Stickleback"
+      ],
+      "Display Limit": "4",
+      "Total Fish": "5-7"
+    },
+    "Chirai Shrine": {
+      "Day": [
+        "Medaka",
+        "Glaze Medaka",
+        "Crystalfish"
+      ],
+      "Night": [
+        "Medaka",
+        "Glaze Medaka",
+        "Dawncatcher"
+      ],
+      "Display Limit": "4",
+      "Total Fish": "3-6"
+    },
+    "Koseki Village (1)": {
+      "Day": [
+        "Glaze Medaka",
+        "Akai Maou",
+        "Purple Shriakodai",
+        "Golden Koi",
+        "Rusty Koi"
+      ],
+      "Night": [
+        "Glaze Medaka",
+        "Lunged Stickleback",
+        "Golden Koi",
+        "Rusty Koi"
+      ],
+      "Display Limit": "5",
+      "Total Fish": "9-10"
+    },
+    "Koseki Village (2)": {
+      "Day": [
+        "Medaka",
+        "Crystalfish",
+        "Purple Shriakodai",
+        "Pufferfish"
+      ],
+      "Night": [
+        "Medaka",
+        "Dawncatcher",
+        "Pufferfish"
+      ],
+      "Display Limit": "6",
+      "Total Fish": "6-9"
+    },
+    "Nazuchi Beach": {
+    },
+    "Ritou": {
+      "Day": [
+        "Glaze Medaka",
+        "Akai Maou",
+        "Pufferfish",
+        "Bitter Pufferfish"
+      ],
+      "Night": [
+        "Glaze Medaka",
+        "Lunged Stickleback",
+        "Pufferfish",
+        "Bitter Pufferfish"
+      ],
+      "Display Limit": "5",
+      "Total Fish": "9-11"
+    },
+    "Sangonomiya Shrine": {
+      "Day": [
+        "Medaka",
+        "Glaze Medaka",
+        "Crystalfish",
+        "Purple Shriakodai"
+      ],
+      "Night": [
+        "Medaka",
+        "Glaze Medaka",
+        "Dawncatcher",
+        "Lunged Stickleback"
+      ],
+      "Display Limit": "4",
+      "Total Fish": "4-8"
+    },
+    "Suigetsu Pool": {
+      "Day": [
+        "Medaka",
+        "Glaze Medaka",
+        "Crystalfish",
+        "Purple Shriakodai"
+      ],
+      "Night": [
+        "Medaka",
+        "Glaze Medaka",
+        "Dawncatcher",
+        "Lunged Stickleback"
+      ],
+      "Display Limit": "4",
+      "Total Fish": "8-9"
+    },
+    "Tatarasuna": {
+      "Day": [],
+      "Night": [
+        "Raimei Angelfish"
+      ],
+      "Display Limit": "5",
+      "Total Fish": "3-5"
+    },
+    "The Serpent's Bowels": {
+      "Day": [
+        "Crystalfish",
+        "Divda Ray",
+        "Formalo Ray"
+      ],
+      "Night": [
+        "Lunged Stickleback",
+        "Divda Ray",
+        "Formalo Ray"
+      ],
+      "Display Limit": "4",
+      "Total Fish": "6-8"
+    },
+    "The Serpent's Heart (1)": {
+      "Day": [
+        "Akai Maou",
+        "Divda Ray",
+        "Formalo Ray"
+      ],
+      "Night": [
+        "Dawncatcher",
+        "Divda Ray",
+        "Formalo Ray"
+      ],
+      "Display Limit": "4",
+      "Total Fish": "6-10"
+    },
+    "The Serpent's Heart (2)": {
+      "Day": [
+        "Purple Shirakodai",
+        "Divda Ray",
+        "Formalo Ray"
+      ],
+      "Night": [
+        "Dawncatcher",
+        "Divda Ray",
+        "Formalo Ray"
+      ],
+      "Display Limit": "5",
+      "Total Fish": "9-11"
+    }
+  },
+  "Sumeru": {
+    "Aaru Village": {
+    },
+    "Debris of Panjvahe": {
+    },
+    "Devantaka Mountain": {
+    },
+    "Gavireh Lajavard": {
+    },
+    "Land of Lower Setekh": {
+    },
+    "Mawtiyima Forest": {
+    },
+    "Port Ormos": {
+    },
+    "Sumeru City": {
+    },
+    "Vimara Village": {
+    },
+    "Vissudha Field": {
+    },
+    "Yazadaha Pool": {
+    }
+  },
+  "Fontaine": {
+    "Central Laboratory Ruins: Shallow Shoal": {
+    },
+    "Court of Fontaine: City Wall Southern Arc": {
+    },
+    "Elynas: Eastern Shoal": {
+    },
+    "Elynas: Northeast Beach": {
+    },
+    "Elynas: Southern Mountains": {
+    },
+    "Erinnyes Forest Southern Shore": {
+    },
+    "Fishing Boat at Sea": {
+    },
+    "Fountain of Lucine: Western Shoal": {
+    },
+    "Lumidouce Harbor Northern Shore": {
+    },
+    "Mont Esus East": {
+    },
+    "Morte Region Northwest": {
+    },
+    "Morte Region Southeast": {
+    },
+    "Petrichor: Southern Island": {
+    },
+    "Salacia Plain: Western Shoal": {
+    },
+    "West Slopes of Mont Automnequi": {
+    }
+  },
+  "Natlan": {
+    "Ameyalco Waters: Southern Side, Underground": {
+      "Day": [
+        "Magma Rapidfighting Fish",
+        "Phony Phlogiston Unihornfish"
+      ],
+      "Night": [
+        "Magma Rapidfighting Fish",
+        "Phony Phlogiston Unihornfish"
+      ],
+      "Display Limit": "5",
+      "Total Fish": "13+"
+    },
+    "Ancestral Temple: Eastern Side, Underground": {
+      "Day": [
+        "Magma Rapidfighting Fish",
+        "Phony Phlogiston Unihornfish"
+      ],
+      "Night": [
+        "Magma Rapidfighting Fish",
+        "Phony Phlogiston Unihornfish"
+      ],
+      "Display Limit": "5",
+      "Total Fish": "Unknown"
+    },
+    "Flower-Feather Clan: Northern Coast": {
+      "Day": [
+        "Diving Rapidfighting Fish",
+        "Pseudoshark Unihornfish"
+      ],
+      "Night": [
+        "Dusk Sunfish",
+        "Pseudoshark Unihornfish"
+      ],
+      "Display Limit": "Unknown",
+      "Total Fish": "Unknown"
+    },
+    "Flower-Feather Clan: Western Coast": {
+      "Day": [
+        "Medaka",
+        "Diving Rapidfighting Fish",
+        "Pseudoshark Unihornfish"
+      ],
+      "Night": [
+        "Medaka",
+        "Floral Rapidfighting Fish",
+        "Dusk Sunfish",
+        "Pseudoshark Unihornfish"
+      ],
+      "Display Limit": "5",
+      "Total Fish": "12+"
+    },
+    "Ochkanatlan: Eastern Waters": {
+      "Day": [
+        "Medaka",
+        "Greenwave Sunfish",
+        "Pseudoshark Unihornfish"
+      ],
+      "Night": [
+        "Medaka",
+        "Dusk Sunfish",
+        "Pseudoshark Unihornfish"
+      ],
+      "Display Limit": "Unknown",
+      "Total Fish": "Unknown"
+    },
+    "Ochkanatlan: Isle of Tozoz": {
+      "Day": [
+        "Greenwave Sunfish",
+        "Pseudoshark Unihornfish"
+      ],
+      "Night": [
+        "Floral Rapidfighting Fish",
+        "Pseudoshark Unihornfish"
+      ],
+      "Display Limit": "Unknown",
+      "Total Fish": "Unknown"
+    },
+    "Ochkanatlan: North Shore": {
+      "Day": [
+        "Medaka",
+        "Diving Rapidfighting Fish",
+        "Pseudoshark Unihornfish"
+      ],
+      "Night": [
+        "Medaka",
+        "Dusk Sunfish",
+        "Pseudoshark Unihornfish"
+      ],
+      "Display Limit": "5",
+      "Total Fish": "14+"
+    },
+    "Ochkanatlan: Southeastern Waters": {
+      "Day": [
+        "Medaka",
+        "Diving Rapidfighting Fish",
+        "Greenwave Sunfish"
+      ],
+      "Night": [
+        "Medaka",
+        "Floral Rapidfighting Fish",
+        "Dusk Sunfish"
+      ],
+      "Display Limit": "Unknown",
+      "Total Fish": "Unknown"
+    },
+    "Ochkanatlan: Southern Waters": {
+      "Day": [
+        "Diving Rapidfighting Fish",
+        "Pseudoshark Unihornfish"
+      ],
+      "Night": [
+        "Floral Rapidfighting Fish",
+        "Pseudoshark Unihornfish"
+      ],
+      "Display Limit": "Unknown",
+      "Total Fish": "Unknown"
+    },
+    "Ochkanatlan: Western Side, Underground": {
+      "Day": [
+        "Magma Rapidfighting Fish",
+        "Phony Phlogiston Unihornfish"
+      ],
+      "Night": [
+        "Magma Rapidfighting Fish",
+        "Phony Phlogiston Unihornfish"
+      ],
+      "Display Limit": "Unknown",
+      "Total Fish": "Unknown"
+    },
+    "Skyfire Circlet: Northwestern Waters": {
+      "Day": [
+        "Magma Rapidfighting Fish",
+        "Phony Phlogiston Unihornfish",
+        "Secret Source Scout Sweeper"
+      ],
+      "Night": [
+        "Magma Rapidfighting Fish",
+        "Phony Phlogiston Unihornfish",
+        "Secret Source Scout Sweeper"
+      ],
+      "Display Limit": "Unknown",
+      "Total Fish": "Unknown"
+    },
+    "Skyfire Circlet: Western Waters": {
+      "Day": [
+        "Phony Phlogiston Unihornfish",
+        "Secret Source Scout Sweeper"
+      ],
+      "Night": [
+        "Phony Phlogiston Unihornfish",
+        "Secret Source Scout Sweeper"
+      ],
+      "Display Limit": "Unknown",
+      "Total Fish": "Unknown"
+    },
+    "Tezcatepetonco Range": {
+      "Day": [
+        "Medaka",
+        "Diving Rapidfighting Fish",
+        "Greenwave Sunfish",
+        "Pseudoshark Unihornfish"
+      ],
+      "Night": [
+        "Medaka",
+        "Floral Rapidfighting Fish",
+        "Dusk Sunfish",
+        "Pseudoshark Unihornfish"
+      ],
+      "Display Limit": "5",
+      "Total Fish": "12-13"
+    }
   }
 }
